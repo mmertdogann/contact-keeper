@@ -1,3 +1,4 @@
 {
-  "mongoURI": "mongodb+srv://mert123:mert123@contactkeeper.oe92o.mongodb.net/sample_airbnb?retryWrites=true&w=majority"
+  "mongoURI": "mongodb+srv://mert123:mert123@contactkeeper.oe92o.mongodb.net/test?retryWrites=true&w=majority",
+  "jwtSecret": "secret"
 }
